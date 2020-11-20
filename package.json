@@ -78,7 +78,7 @@
     "@babel/register": "7.4.4",
     "@types/bech32": "1.1.1",
     "@types/dottie": "2.0.3",
-    "@types/elliptic": "6.4.5",
+    "@types/elliptic": "6.4.12",
     "@types/node": "11.13.17",
     "ava": "2.2.0",
     "awesome-typescript-loader": "5.2.1",
